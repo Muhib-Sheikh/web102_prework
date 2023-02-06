@@ -34,11 +34,20 @@ GIF created with [Licecap](https://www.cockos.com/licecap/) for Windows/mac
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+<!-- Describe any challenges encountered while building the app. -->
+Some challenges I faced included:
+figuring out how to add HTML elements with string literals,
+using filter/reduce correctly,
+adding eventlisteners,
+printing values to the console,
+calculating the number of unfunded games,
+getting the first and second most funded games,
+and tring to figure out the secret key for challenges 2, 4, and 7
+
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2023] [Muhib Sheikh]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
